@@ -3,7 +3,14 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Generated output
-06_output/
+05_output/
+
+# Canvas course material (re-download with Canvas API)
+*.pdf
+00_python_kurs/
+
+# Secrets
+.env
 
 # OS
 .DS_Store
